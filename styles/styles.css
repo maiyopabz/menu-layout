@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 10;
+    font-size: 30px;
+    box-sizing: border-box;
+  }
+
+body {
+    text-align: center;
+    
+}
+
+.nav img{
+
+}
+.background {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+  
+
+}
+
+.background img {
+    border-radius: 150px;
+    padding: 100px;
+    max-width: 100%;
+    height: auto;
+    
+    
+}
